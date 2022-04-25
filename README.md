@@ -1,5 +1,3 @@
-#### "Murat Yücedağ C# ile 25 Derste 25 Uygulamalı Proje" Kursuna ait Örnek C# Form Projesi
-
 # Proje: Döviz Bürosu Uygulaması
 
 C# Form Uygulaması olarak geliştirdiğim bu projede, iki adet Form ekranı bulunmaktadır. Program çalıştığında bizleri Login ekranı karşılamaktadır. Bu ekranda sisteme daha önce üye olmuş kişiler TCKN ve şifreleriyle giriş yapabilir. Sisteme daha önce üye olmayan kişiler "Şifremi Unuttum / Üye Ol" butonuna basarak gerekli yerleri doldurarak üyelik işlemini gerçekleştirebilir. Sisteme bir şekilde giriş yapmayı sağlayan kullanıcıları yeni bir form ekranı karşılar. Bu ekranda sol üst köşede, TCMB' den alınan güncel kur (dolar alış, dolar satış, euro alış ve euro satış) oranları bulunur. Yanlarında bulunan "..." butonuna basılarak ilgili kur, hemen alttaki İşlemler menüsü içerisine aktarılır. Aşağıda yer alan butonlardan ("Satış Yap" ve "Alım Yap") yapılacak işlem ile ilgili olan seçilir ve Onay butonuna basılarak işlem tamamlanır. Sağ alt köşede ise ilgili hesabın mevcut bakiyesi (dolar, euro, TL) görüntülenir.
